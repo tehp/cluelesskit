@@ -1,0 +1,39 @@
+ body { 
+  background-color: black;
+}
+
+h1 { 
+  font-family: 'Open Sans Condensed', Arial, serif;
+  font-weight: 400; 
+  color: white;
+}
+
+h4 {
+  font-family: 'Open Sans Condensed', Arial, serif;
+  font-weight: 350; 
+  color: white;	
+}
+
+.center {
+	text-align: center;
+    margin: auto;
+    width: 60%;
+    padding: 30px;
+}
+
+.title {
+	margin-top: 10%;
+}
+
+a {
+	padding-left: 3px;
+	padding-right: 3px;
+	color: white;
+	text-decoration: none;
+}
+
+.songs {
+	padding: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
